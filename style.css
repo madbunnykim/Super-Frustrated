@@ -1,0 +1,92 @@
+body {
+  background-color: pink;
+}
+
+.audiostory{
+  width: 95%;
+  padding-left: 30px;
+  padding-right: 30px;
+}
+
+h1 {
+  color: white;
+  font-size: 8em;
+  font-family: 'Verdana', Times, sans-serif;
+  padding-left: 30px;
+  padding-right: 30px;
+}
+
+h2 {
+  color: LavenderBlush;
+  font-size: 4em;
+  font-family: 'Georgia', Times, serif;
+  font-style: italic;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  padding-left: 30px;
+}
+
+button {
+  color: pink;
+  background-color: white;
+  font-size: 2.5em;
+  font-family: 'Georgia', Times, serif;
+  text-align:center;
+  padding: 15px;
+  width: 100%;
+  border-radius: 15px;
+  border: solid LavenderBlush 5px;
+}
+
+.button_container {
+  width: 96%;
+  padding-top: 20px;
+  padding-bottom: 60px;
+  padding-left: 2%;
+  padding-right: 2%;
+  margin-top: 80px;
+  display: flex;
+  justify-content: space-evenly;
+}
+
+p {
+  color: IndianRed;
+  font-size: 2em;
+  font-family: 'Georgia', Times, serif;
+  line-height: 1.5em;
+  padding-bottom: 50px;
+  padding-left: 50px;
+  padding-right: 50px;
+}
+
+.text_container {
+  width: 90%;
+  margin-left: auto;
+  margin-right: auto;
+}
+.cont_item {
+  width: 40%;
+}
+
+#text_story {
+  text-align: left;
+}
+
+/* form {
+  width: 100%;
+  display: inline;
+  magin: 0px;
+} */
+
+/* FOR MOBILE */
+@media only screen and (max-width: 945px) {
+  .text_container {
+    width: 100%;
+  }
+  p {
+    font-size: 2.5em;
+  }
+  button {
+    width: 40%;
+  }
+}

@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<script src='script.js'></script>
+	<script src="https://unpkg.com/axios/dist/axios.min.js"></script>
+	<link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+	<h1>Super Frustrated NYC Modern Love Stories</h1>
+	<h2 id="text">Listen to a super frustrated modern love story at <span id="loc_text"></span></h2>
+
+	<audio class="audiostory" id="NYU_ITP" controls style="display: none">
+		<source src="audio/NYU_ITP.mp3" type="audio/mpeg">
+	</audio>
+
+	<audio class="audiostory" id="Mars" controls style="display: none">
+		<source src="audio/Mars.mp3" type="audio/mpeg">
+	</audio>
+
+	<audio class="audiostory" id="St_Marks_Pl" controls style="display: none">
+		<source src="audio/St_Marks_Pl.mp3" type="audio/mpeg">
+	</audio>
+
+	<audio class="audiostory" id="NYU_Computer_Science" controls style="display: none">
+		<source src="audio/NYU_Computer_Science.mp3" type="audio/mpeg">
+	</audio>
+
+	<audio class="audiostory" id="Broken_Land" controls style="display: none">
+		<source src="audio/Broken_Land.mp3" type="audio/mpeg">
+	</audio>
+
+	<audio class="audiostory" id="Nowadays" controls style="display: none">
+		<source src="audio/Nowadays.mp3" type="audio/mpeg">
+	</audio>
+
+	<audio class="audiostory" id="NYC_Bagel_and_Coffee_House" controls style="display: none">
+		<source src="audio/NYC_Bagel_and_Coffee_House.mp3" type="audio/mpeg">
+	</audio>
+
+	<audio class="audiostory" id="Borough_Hall" controls style="display: none">
+		<source src="audio/Borough_Hall.mp3" type="audio/mpeg">
+	</audio>
+
+	<audio class="audiostory" id="Keybar" controls style="display: none">
+		<source src="audio/Keybar.mp3" type="audio/mpeg">
+	</audio>
+
+	<div class="button_container">
+		<div class="cont_item"> <button id="text_story_button" onclick="showTextStory()">Read in text</button> </div>
+		<form class="cont_item"> <button formaction="https://github.com/madbunnykim/hello-frustrations">About</button> </form>
+	</div>
+
+	<div class="text_container" id="text_container" style="display: none;">
+	</div>
+
+</body>
+
+</html>
