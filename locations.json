@@ -5,63 +5,67 @@
 			"display"		: "NYU ITP",
 			"lat" 			: 40.7299088,
 			"lon" 			: -73.9937281,
-			"text"      : "This is a test script."
+			"text"			: [
+				"After taking a 7 month break from dating, I was nervous about getting back at it but thought it was time for me to meet someone new. I matched with a data scientist on Coffee Meets Bagel. We had fun chatting online and he asked me out at the end of our conversation. Our first date was on a Tuesday night at a wine bar in flatiron. To match with my style, he showed up with a choker. It was hysterical. The tension was gone and the rest of the date went exceptionally well.",
+				"I wanted to hang out with him again but couldn’t squeeze time out of my busy school schedule so I invited him to go to Ambient Church with me on that Saturday with two of my classmates. As someone who hung out primarily in Manhattan and knew very little about art, he still came all the way to deep Bushwick just to spend time with me. We had another fun night together. Afterwards, we went out for dinner and drinks every week the next four weeks. He once canceled our Brooklyn Botanical Garden plan last minute because he told me he was in bad mood for the week and wanted time for himself. I didn’t question his intention. It seemed like he was just really having a tough week. On our fifth date, I invited him to a two-day group show at my grad school ITP which I will be showing projects I had been working hard on the past four months. He said he will come to the second show because he also wanted to go to our after party. The project I was showing was situated at a dark corner next to our blue bin shelf in our shop at the end of our floor. It was a modern take on tarot card reading where my collaborator and I took turns to hide behind our installation to initiate the magic.",
+				"An hour before the end of the second show, I was sitting behind the curtains, alone, when I received his text, 'Hey, I was out with my colleagues last night and was hungover the whole day. Won’t be able to make it to your show. Sorry'. Before I was able to process it, the show got flooded with last minute visitors, followed by chaotic post-show clean up and after party at Better Days in the Lower East Side. I drank a lot of prosecco and told one of my classmates about the upsetting text. He told me I should speak up for myself and gave me some cocaine. I took some, drank more prosecco and danced. On my car ride home, it was the first time in 24 hour when everything was finally calm and quiet. Tears fell down my cheek. I texted him the next day that I was disappointed about his behavior.",
+				"He responded, ‘I am sorry. I know it is really important to you but I was feeling incredibly ill. That said, I have to be honest though, I was also a little anxious about going. Anxious because I’ve been feeling extremely confused about what I want in life and relationships. I am not in a state at all to engage myself in anything long term/serious, nor do I think I really want to. Making plans to view your work in school kinda made me feel like the initial stages of my previous relationship. It threw me off. I figured I want to be honest with you, not to lead you on.’"]
 		},
 		{
 			"name"			: "Mars",
 			"display"		: "Mar's",
 			"lat" 			: 40.777061,
 			"lon" 			: -73.935600,
-			"text"			: "This is a test script."
+			"text"			: ["This is a test script."]
 		},
 		{
 			"name"			: "St_Marks_Pl",
 			"display"		: "St Marks Pl",
 			"lat" 			: 40.729377,
 			"lon" 			: -73.989037,
-			"text"			: "This is a test script."
+			"text"			: ["This is a test script."]
 		},
 		{
 			"name"			: "NYU_Computer_Science",
 			"display"		: "NYU Computer Science",
 			"lat" 			: 40.728699,
 			"lon" 			: -73.995715,
-			"text"			: "This is a test script."
+			"text"			: ["This is a test script."]
 		},
 		{
 			"name"			: "Broken_Land",
 			"display"		: "Broken Land",
 			"lat" 			: 40.729519,
 			"lon" 			: -73.957799,
-			"text"			: "I think he lived in Manhattan, which felt so mystifying to me. He took the East River Ferry over to Brooklyn. I know this because he texted a picture with, “Beautiful sunset from the East River Ferry. Be there soon!!!!” and made me momentarily second guess leaving my house. I showed up at my favorite neighborhood bar looking forward to my preferred first date incentive: a homemade pina colada on the back porch. That’s when I saw it. This guy was standing in the middle of my neighborhood bar, on a Segway. When I walked up to him, he towered over me on it. He looked down at me and we shook hands. And to my horror, he rode it out to the back porch, trying to match my walking pace. Seeing my face, he admitted that his friends recommended he not show up on a first date on a Segway. I disagreed. “Actually,” I said, “I think it’s a great idea.” I envisioned a woman rolling up to the date on her own Segway and the two of them collapsing in fits of laughter, relieved that, finally, they had both found the one. The pair, gliding off into their promising future, perfecting their Segway’s pace so that they can still hold hands. I was jolted back to reality as I watched him methodically collapse it, attracting a few looks. I liked his self-assurance, though! This guy clearly knew who he was and what he liked. I really wanted to give him a shot. But his story dominated mine. He spent the duration of the drink talking about the all the property he owned. He cut off my sentences like he cut off foot traffic inside the bar, steering the conversation in whatever direction the urge took him. As I looked at my watch, he asked, before I left, did I want to ride it? I paused. I never wanted to see this human-who-cuts-women-off again. But, I wasn’t certain that I’d get another chance to ride a Segway. And so I did, in the nearby parking lot. In public. It was just alright. And then I got the hell out of there. I immediately called my best friend, Nancy, and explained to her what had happened in a breathless run on sentence. Just as she was getting the gist, I heard “Heyyy!”. I froze. There he was, rolling right on by, calling out to me on my street, the sidewalk cafe-goers barely looking up from their pints."
+			"text"			: ["I think he lived in Manhattan, which felt so mystifying to me. He took the East River Ferry over to Brooklyn. I know this because he texted a picture with, “Beautiful sunset from the East River Ferry. Be there soon!!!!” and made me momentarily second guess leaving my house. I showed up at my favorite neighborhood bar looking forward to my preferred first date incentive: a homemade pina colada on the back porch. That’s when I saw it. This guy was standing in the middle of my neighborhood bar, on a Segway. When I walked up to him, he towered over me on it. He looked down at me and we shook hands. And to my horror, he rode it out to the back porch, trying to match my walking pace. Seeing my face, he admitted that his friends recommended he not show up on a first date on a Segway. I disagreed. “Actually,” I said, “I think it’s a great idea.” I envisioned a woman rolling up to the date on her own Segway and the two of them collapsing in fits of laughter, relieved that, finally, they had both found the one. The pair, gliding off into their promising future, perfecting their Segway’s pace so that they can still hold hands. I was jolted back to reality as I watched him methodically collapse it, attracting a few looks. I liked his self-assurance, though! This guy clearly knew who he was and what he liked. I really wanted to give him a shot. But his story dominated mine. He spent the duration of the drink talking about the all the property he owned. He cut off my sentences like he cut off foot traffic inside the bar, steering the conversation in whatever direction the urge took him. As I looked at my watch, he asked, before I left, did I want to ride it? I paused. I never wanted to see this human-who-cuts-women-off again. But, I wasn’t certain that I’d get another chance to ride a Segway. And so I did, in the nearby parking lot. In public. It was just alright. And then I got the hell out of there. I immediately called my best friend, Nancy, and explained to her what had happened in a breathless run on sentence. Just as she was getting the gist, I heard “Heyyy!”. I froze. There he was, rolling right on by, calling out to me on my street, the sidewalk cafe-goers barely looking up from their pints."]
 		},
 		{
 			"name"			: "Nowadays",
 			"display"		: "Nowadays",
 			"lat" 			: 40.692867,
 			"lon" 			: -73.901695,
-			"text"			: "This is a test script."
+			"text"			: ["This is a test script."]
 		},
 		{
 			"name"			: "NYC_Bagel_and_Coffee_House",
 			"display"		: "NYC Bagel and Coffee House",
 			"lat" 			: 40.750105,
 			"lon" 			: -73.983813,
-			"text"			: "This is a test script."
+			"text"			: ["This is a test script."]
 		},
 		{
 			"name"			: "Borough_Hall",
 			"display"		: "Borough Hall",
 			"lat" 			: 40.692634,
 			"lon" 			: -73.990538,
-			"text"			: "This is a test script."
+			"text"			: ["This is a test script."]
 		},
 		{
 			"name"			: "Keybar",
 			"display"		: "Keybar",
 			"lat" 			: 40.729919,
 			"lon" 			: -73.981911,
-			"text"			: "This is a test script."
+			"text"			: ["This is a test script."]
 		}
 	]
 }
