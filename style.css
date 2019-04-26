@@ -26,6 +26,16 @@ h2 {
   padding-left: 30px;
 }
 
+h3 {
+  color: white;
+  font-size: 2.5em;
+  font-family: 'Georgia', Times, serif;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  padding-left: 30px;
+  line-height: 1.5em;
+}
+
 button {
   color: pink;
   background-color: white;
@@ -65,7 +75,7 @@ p {
   margin-right: auto;
 }
 .cont_item {
-  width: 40%;
+  width: 30%;
 }
 
 #text_story {
@@ -82,6 +92,10 @@ p {
 @media only screen and (max-width: 945px) {
   .text_container {
     width: 100%;
+  }
+  .button_container {
+    margin-top: 100px;
+    margin-top: 50px;
   }
   p {
     font-size: 2.5em;
