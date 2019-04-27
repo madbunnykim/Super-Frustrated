@@ -15,7 +15,7 @@ Why voice? Ansari discussed in his book that many millennials are terrified of p
 
 
 # Technical Details
-Built with JavaScript, HTML and CSS, Super Frustrated NYC Modern Love Stories is a mobile site that tracks your location.
+A mobile site built with JavaScript, HTML and CSS.
 
 To begin, simply go to [Super Frustrated NYC Modern Love Stories](https://www.superfrustrated.nyc/) and enable your location in your default browser. An audio story will pop up if you happen to be at a point of New York City where a frustrating date took place. You can listen to the story by clicking the play button. If you are in a noisy place (like most bars in NYC), you can read about the story in text by clicking the "Read in text" button.
 
