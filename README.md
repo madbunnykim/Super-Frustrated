@@ -30,4 +30,4 @@ Evan Forde Barden, Lauren Race, Jillian Zhong, Max Horwich, Matt Newberg, Jelani
 
 And everyone who helped me along the way to making this project possible
 
-Shawn Van Every, Nicolás Escarpentier, Danny Rozin, Kat Sullivan, Devin Curry, Fanni Fazakas, Daniel Benyi, Ayaka Omoto, Grace Chuang, Paul Gisbrecht, Suzanne Li, Hafi, Caroline Neel, Caroline Fahey, Roland Arnoldt, Brandon Newberg, Asha Veeraswamy, Dominic Barrett, Hayley Hwang, Rushali Paratey, Emma Norton, MH Rahmani, Dan Oved, Katya Rozanova, Matt Ross, Winslow Porter, Tina Huang, Andrea Yang, Mom and Dad.
+Shawn Van Every, Nicolás Escarpentier, Danny Rozin, Kat Sullivan, Devin Curry, Fanni Fazakas, Daniel Benyi, Ayaka Omoto, Grace Chuang, Paul Gisbrecht, Suzanne Li, Hafi, Caroline Neel, Caroline Fahey, Roland Arnoldt, Brandon Newberg, Asha Veeraswamy, Dominic Barrett, Hayley Hwang, Rushali Paratey, Emma Norton, MH Rahmani, Dan Oved, Katya Rozanova, Krizia Fernando, Matt Ross, Winslow Porter, Tina Huang, Andrea Yang, Mom and Dad.
