@@ -42,11 +42,11 @@ function onLoad(){
 
 			if(name != ""){
 				hideAll();
-				// display the relevant content
+				// display relevant content
 				document.getElementById(name).style.display = "block";
 				// document.getElementById("loc_text").textContent = disp;
 				document.getElementById("text").textContent = "Listen to a super frustrated modern love story at " + disp;
-				// load the story in text form
+				// load story in text form
 				text_container = document.getElementById("text_container");
 				if(text_container.children.length == 0){
 					for (let i = 0; i < text.length; i++) {
@@ -55,7 +55,7 @@ function onLoad(){
 						text_container.appendChild(p);
 					}
 				}
-				// enable the button to read the text
+				// enable read in text button
 				document.getElementById("text_story_button").style.display = "block";
 			}
 		}
@@ -67,7 +67,7 @@ function onLoad(){
 	}
 }
 
-// hide all audios
+// hide all audio
 function hideAll(){
 	locations.forEach(function(loc){
 		let id = loc.name;
@@ -75,7 +75,7 @@ function hideAll(){
 	});
 }
 
-// this function toggles stories in text
+// toggle stories in text
 function showTextStory(){
 	let text_status = document.getElementById("text_container").style.display;
 	if(text_status == "block"){
