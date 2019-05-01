@@ -42,8 +42,11 @@ function onLoad(){
 
 			if(name != ""){
 				hideAll();
+				// display the relevant content
 				document.getElementById(name).style.display = "block";
-				document.getElementById("loc_text").textContent = disp;
+				// document.getElementById("loc_text").textContent = disp;
+				document.getElementById("text").textContent = "Listen to a super frustrated modern love story at " + disp;
+				// load the story in text form
 				text_container = document.getElementById("text_container");
 				if(text_container.children.length == 0){
 					for (let i = 0; i < text.length; i++) {
@@ -52,6 +55,8 @@ function onLoad(){
 						text_container.appendChild(p);
 					}
 				}
+				// enable the button to read the text
+				document.getElementById("text_story_button").style.display = "block";
 			}
 		}
 		function errorCallback(e) {
