@@ -18,7 +18,7 @@ h1 {
 
 h2 {
   color: LavenderBlush;
-  font-size: 4em;
+  font-size: 3.5em;
   font-family: 'Georgia', Times, serif;
   font-style: italic;
   padding-top: 10px;
@@ -45,7 +45,9 @@ button {
   font-family: 'Georgia', Times, serif;
   text-align:center;
   padding: 15px;
-  width: 100%;
+  width: 80%;
+  margin: 20px auto;
+  display: block;
   border-radius: 15px;
   border: solid LavenderBlush 5px;
 }
@@ -58,12 +60,13 @@ button {
   padding-right: 2%;
   margin-top: 80px;
   display: flex;
+  flex-wrap: wrap;
   justify-content: space-evenly;
 }
 
 p {
   color: IndianRed;
-  font-size: 2em;
+  font-size: 2.3em;
   font-family: 'Georgia', Times, serif;
   line-height: 1.5em;
   padding-bottom: 50px;
@@ -77,11 +80,15 @@ p {
   margin-right: auto;
 }
 .cont_item {
-  width: 30%;
+  width: 50%;
 }
 
 #text_story {
   text-align: left;
+}
+
+.link {
+  text-decoration: none;
 }
 
 /* form {
