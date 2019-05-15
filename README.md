@@ -39,4 +39,4 @@ And everyone who helped me along the way to making this project possible
 
 Shawn Van Every, Nicolás Escarpentier, Danny Rozin, Kat Sullivan, Devin Curry, Fanni Fazakas, Daniel Benyi, Ayaka Omoto, Grace Chuang, Paul Gisbrecht, Suzanne Li, Hafi, Caroline Neel, Caroline Fahey, Roland Arnoldt, Brandon Newberg, Asha Veeraswamy, Dominic Barrett, Hayley Hwang, Rushali Paratey, Emma Norton, MH Rahmani, Dan Oved, Katya Rozanova, Krizia Fernando, Matt Ross, Winslow Porter, Tina Huang, Andrea Yang, Mom and Dad.
 
-[![Image linked to video demo](https://static1.squarespace.com/static/59adc207e5dd5b60a9d43688/5cc34a3f652deae87520e724/5cdc7935fa0d60683d9501bc/1557952849114/IMG_4206.JPG?format=2500w "Click the image to view a video demo")](https://vimeo.com/333329541)
+[![Image linked to video demo](https://static1.squarespace.com/static/59adc207e5dd5b60a9d43688/5cc34a3f652deae87520e724/5cdc7935fa0d60683d9501bc/1557952849114/IMG_4206.JPG?format=2500w "Click on this image to view a video demo")](https://vimeo.com/333329541)
